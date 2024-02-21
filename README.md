@@ -1,2 +1,2 @@
 # Pedor-Shooter
-Projeto de aprendizado de desenvolvimento de games com java
+Olá, eu sou Pedro e esse é um dos meus primeiros projetos de desenvolvimento de jogos em java, feito do zero com programação
